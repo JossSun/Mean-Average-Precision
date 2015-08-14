@@ -1,7 +1,7 @@
 # Mean-Average-Precision
 predict and analysis the MAP of  the prediction
 1.prepare.py:
-first split a large data file by query
+rewrite data for further use
 2.predict.py:
 predict the rank for each query by only one feature
 3.map.py:
